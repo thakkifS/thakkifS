@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thakkifS
+- 👋 Hi, I’m @thakkif_ilyas
 - 📫 How to reach me thakkifahamed@gmail.com
-- 🌱 I am currently learning C++,CSS,Javascript,PHP
+
   
 
